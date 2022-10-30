@@ -1,2 +1,2 @@
 # Simple-Web-Calculator
-A web calculator mada in js
+A web calculator made in js
